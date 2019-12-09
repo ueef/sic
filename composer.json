@@ -1,0 +1,14 @@
+{
+  "name": "ueef/sic",
+  "type": "library",
+  "license": "MIT",
+  "description": "The SIC is trait for a shared instance container",
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Ueef\\Sic\\": "src"
+    }
+  }
+}
