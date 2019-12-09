@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Ueef\Sic\Traits;
+namespace Ueef\Sic;
 
 trait SharedInstanceContainerTrait
 {
