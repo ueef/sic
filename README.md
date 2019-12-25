@@ -1,2 +1,2 @@
 # sic
-The SIC is trait for a shared instance container
+The SIC is a trait for a shared instance container

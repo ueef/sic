@@ -2,7 +2,7 @@
   "name": "ueef/sic",
   "type": "library",
   "license": "MIT",
-  "description": "The SIC is trait for a shared instance container",
+  "description": "The SIC is a trait for a shared instance container",
   "require": {
     "php": ">=7.0"
   },
